@@ -1,0 +1,29 @@
+Contractor AI Voice Agent Landing Page Template
+
+
+A high-converting landing page template for promoting AI voice agents that answer, qualify, and
+schedule calls for contractors and home service businesses.
+
+Lead Fix AI is a dark, futuristic landing page template built to market AI voice agents for
+contractors and home service providers.
+
+What's Included
+
+Hero with bold value proposition, demo phone mockup, and dual CTAs
+“How It Works” service cards for answering, qualifying, and scheduling
+Feature grid introducing the AI assistant (Lisa) and capabilities
+Testimonial and metrics block to showcase social proof
+Tiered pricing plans for SaaS or service offerings
+Contact and discovery call form with qualification fields
+
+Key Features
+
+3D animated background using Three.js and GSAP
+Contractor-focused messaging for roofers, HVAC, plumbers
+Conversion-optimized CTAs like “Book a Discovery Call” and “Get Started”
+Pricing comparison layout for Starter, Professional, Premium plans
+Responsive, Tailwind-powered design with dark, gradient styling
+
+
+Primary Use Case: A reusable template for agencies, SaaS founders, 
+or service providers selling AI voice agent solutions to contractors and local trade businesses.

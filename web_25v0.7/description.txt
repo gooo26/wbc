@@ -1,0 +1,31 @@
+AI Automation Developer Portfolio Landing Page Template
+
+A dark, modern portfolio landing page template for AI automation and 
+voice agent developers to showcase services, process, use cases, and book strategy calls.
+
+AI Automation Developer Portfolio Landing Page Template
+
+A sleek, dark, conversion-focused template tailored for AI automation and voice agent developers.
+
+What’s Included
+
+Hero section with metrics and primary CTA
+Services grid for core automation offers
+Step-by-step process timeline
+Real-world use case cards
+About section with photo and socials
+Strategy call CTA and footer links
+
+Key Features
+
+Brandable hero with social proof
+Service cards for AI voice, chat, and workflows
+Engineering-focused process narrative
+Use cases for real estate & e-commerce
+High-contrast, fluid WebGL background
+
+Primary Use Case
+
+Use this template to quickly launch a professional landing page that sells your
+AI automation services, explains your stack and process, and drives prospects to 
+book a strategy call.

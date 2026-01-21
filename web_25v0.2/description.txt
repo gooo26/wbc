@@ -1,0 +1,27 @@
+Glassmorphism Travel Booking Mobile UI Template
+
+A glassmorphism-inspired mobile app UI template for travel search,
+listings, and booking flows, ready to reuse for modern travel or accommodation apps.
+
+Glasstrip is a glassmorphism travel booking mobile UI template showcasing 
+three coordinated screens: settings/profile, search and listings, and calendar-based booking.
+
+What’s Included
+
+Full-screen settings & profile layout with interactive toggles
+Search and category navigation for hotels, cabins, pools, camping, islands
+Rich listing cards with ratings, pricing, dates, and floating bottom nav
+Calendar booking flow with range selection and price summary
+Dark, gradient-heavy glassmorphism styling using Tailwind classes
+
+
+Key Features
+
+Ready-to-adapt mobile UI for travel and accommodation apps
+Consistent dark, frosted-glass aesthetic with gradients and depth
+Micro-interactions for category filters, toggles, and nav states
+Optimized for showcasing in portfolios or design systems
+Easy to customize text, imagery, and colors
+
+Primary Use Case: Use this template as a starting point or showcase for 
+designing and prototyping modern travel, hotel, or short-stay booking experiences on mobile.

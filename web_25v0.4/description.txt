@@ -1,0 +1,29 @@
+Dental Clinic Landing Page Template
+
+
+A modern, comfort-focused dental clinic landing page template for 
+showcasing services, testimonials, and online appointment booking for local practices.
+
+Niva Dental Clinic Landing Page Template delivers a polished, trust-building
+web presence for modern dental practices.
+
+What’s Included
+
+Hero section with value props and primary CTA
+Service grid for key treatments
+About, stats, and testimonials for trust
+Appointment booking form with custom selects
+Contact, hours, and map-style footer
+
+Key Features
+
+Comfort-first messaging tailored to anxious patients
+Comprehensive services layout for general, cosmetic, and pediatric care
+Conversion-focused booking form with date, time, and treatment selection
+Trust signals via reviews, stats, and hygiene highlights
+Responsive, clean design using modern typography and gradients
+
+Primary Use Case
+
+Perfect for dentists and small clinics needing a ready-to-customize 
+template to present services, build credibility, and drive online appointment requests.

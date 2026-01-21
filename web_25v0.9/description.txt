@@ -1,0 +1,26 @@
+Developer Portfolio Landing Page Template
+
+A sleek dark-mode portfolio template for software engineers to showcase projects, 
+experience, and contact details with a modern, SaaS-inspired layout.
+
+Hasler Studio is a modern dark-mode portfolio landing page template tailored for 
+software engineers and tech freelancers.
+
+What’s Included
+
+Hero navigation with brand mark and primary Get in touch CTA
+"Selected Projects" grid for SaaS apps, tools, and case studies
+Story-driven About section with location, degree, and skills
+Conversion-focused Contact block with email, booking, and social links
+Responsive, glassmorphism-inspired, Tailwind-based dark UI
+
+Key Features
+
+SaaS-inspired card layout for projects
+Developer-focused storytelling (skills, education, location)
+Multiple contact channels (email, call booking, social)
+Polished dark aesthetic with gradients and blur
+Mobile-friendly, clean typography
+
+Ideal for showcasing your engineering work, services, 
+and personality while making it easy for clients or hiring managers to reach out.

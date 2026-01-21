@@ -1,0 +1,27 @@
+Kysox CaaS Platform Landing Page Template
+
+A dark, futuristic landing page template for a Content as a Service (CaaS) 
+platform, featuring an interactive SaaS-style dashboard to showcase product value.
+
+Kysox CaaS Landing Page Template delivers a high-impact, dark SaaS 
+aesthetic built around an interactive product dashboard.
+
+What’s Included
+
+Hero section with bold headline, subcopy, social proof, and dual CTAs
+Draggable, multi-view dashboard (Overview, CRM, Projects, Analytics)
+Benefits/solutions grid and conversion-focused CTA band
+Navigation, footer with resources, company links, and social icons
+
+
+Key Features
+
+Interactive dashboard demo to showcase product capabilities
+Developer-first messaging tailored to CaaS / infrastructure tools
+Dark, futuristic gradient UI with liquid glass cards
+Conversion-optimized CTAs like Start Building Free and Contact Sales
+Trust elements including client logos and system status cues
+Primary Use Case
+
+Ideal for B2B SaaS, CaaS, or developer platforms that want to present
+a polished, product-led landing page with an in-page dashboard demo to drive trials and signups.

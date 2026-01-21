@@ -1,0 +1,27 @@
+AI Marketing Automation Landing Page Template
+
+
+A dark, futuristic landing page template for AI-powered marketing automation platforms, 
+ideal for showcasing features, integrations, and lead-generation CTAs.
+
+Market.AI is a sleek dark-mode landing page template tailored for AI-driven 
+marketing automation platforms and SaaS products.
+
+What's Included
+
+Hero section with email capture and primary CTA
+Feature highlights, focus cards, and solutions/accordion blocks
+Stats, 3-step process, and FAQ section
+Bottom CTA banner and full footer with nav and subscribe form
+Smooth scroll reveals, parallax, and responsive Tailwind layout
+
+Key Features
+
+Conversion-focused hero with trial/start CTAs
+Feature-rich sections for automation, analytics, and AI insights
+Accordion FAQs and integration-focused content blocks
+Modern dark aesthetic with gradients, animations, and icons
+Responsive Tailwind CSS ready for SaaS and startup brands
+
+Ideal for launching AI marketing tools, analytics platforms, 
+or B2B SaaS products that need a polished, high-converting marketing site template.
